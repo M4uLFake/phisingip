@@ -1,0 +1,35 @@
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Hi there
+^[[32mForwarding HTTP traffic from https://cohesi.serveo.net
+^[[0mHTTP request from 116.206.14.43 to https://cohesi.serveo.net/nearyou/
+HTTP request from 202.67.39.30 to https://cohesi.serveo.net/nearyou/
+HTTP request from 202.67.39.30 to https://cohesi.serveo.net/nearyou/css/main.css
+HTTP request from 202.67.39.30 to https://cohesi.serveo.net/nearyou/js/main.js
+HTTP request from 202.67.39.30 to https://cohesi.serveo.net/nearyou/js/info.js
+HTTP request from 202.67.39.30 to https://cohesi.serveo.net/nearyou/js/location.js
+HTTP request from 202.67.39.30 to https://cohesi.serveo.net/nearyou/js/warpspeed.min.js
+HTTP request from 202.67.39.30 to https://cohesi.serveo.net/nearyou/php/info.php
+HTTP request from 202.67.39.30 to https://cohesi.serveo.net/nearyou/php/error.php
+HTTP request from 51.36.80.202 to https://cohesi.serveo.net/nearyou/
+HTTP request from 51.36.80.202 to https://cohesi.serveo.net/nearyou
+HTTP request from 51.36.80.202 to https://cohesi.serveo.net/nearyou*/
+HTTP request from 51.36.80.202 to https://cohesi.serveo.net/nearyou/*
+HTTP request from 202.67.39.30 to https://cohesi.serveo.net/nearyou/
+HTTP request from 202.67.39.30 to https://cohesi.serveo.net/nearyou/js/main.js
+HTTP request from 202.67.39.30 to https://cohesi.serveo.net/nearyou/php/info.php
+HTTP request from 202.67.39.30 to https://cohesi.serveo.net/nearyou/php/error.php
+HTTP request from 202.67.39.30 to https://cohesi.serveo.net/nearyou/php/result.php
+HTTP request from 202.67.39.30 to https://cohesi.serveo.net/nearyou/php/result.php
+HTTP request from 202.67.39.30 to https://cohesi.serveo.net/nearyou/
+HTTP request from 202.67.39.30 to https://cohesi.serveo.net/nearyou/js/main.js
+HTTP request from 202.67.39.30 to https://cohesi.serveo.net/nearyou/php/info.php
+HTTP request from 114.142.173.56 to https://cohesi.serveo.net/nearyou/
+HTTP request from 114.142.173.56 to https://cohesi.serveo.net/nearyou/css/main.css
+HTTP request from 114.142.173.56 to https://cohesi.serveo.net/nearyou/js/main.js
+HTTP request from 114.142.173.56 to https://cohesi.serveo.net/nearyou/js/location.js
+HTTP request from 114.142.173.56 to https://cohesi.serveo.net/nearyou/js/info.js
+HTTP request from 114.142.173.56 to https://cohesi.serveo.net/nearyou/js/warpspeed.min.js
+HTTP request from 114.142.173.56 to https://cohesi.serveo.net/nearyou/php/error.php
+HTTP request from 114.142.173.56 to https://cohesi.serveo.net/nearyou/php/error.php
+HTTP request from 114.142.173.56 to https://cohesi.serveo.net/nearyou/*
+Connection to serveo.net closed by remote host.
